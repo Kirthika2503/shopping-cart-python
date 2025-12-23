@@ -1,4 +1,4 @@
-# A simple shooping cart program
+# A simple shopping cart program
 
 foods = []
 prices = []
